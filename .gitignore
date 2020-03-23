@@ -1,0 +1,10 @@
+/.idea/
+/.mvn/
+/src/main/resources/static/
+/src/main/resources/templates/
+/src/test/
+/target/
+/HELP.md
+/leo-07-spring-declarative-transaction.iml
+/mvnw
+/mvnw.cmd

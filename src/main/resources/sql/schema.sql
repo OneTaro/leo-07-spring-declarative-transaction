@@ -1,0 +1,1 @@
+CREATE TABLE FOO (ID INT identity, BAR VARCHAR(64));

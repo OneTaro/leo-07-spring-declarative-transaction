@@ -1,6 +1,6 @@
 ## spring全家桶系列
-### 06 leo-spring-programmatic-transaction
-本例子主要展示 编程式事务
+### 07 leo-spring-declarative-transaction
+本例子主要展示 声明式事务
 
 spring 的事务抽象
 

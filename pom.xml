@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.spring.declarative</groupId>
-    <artifactId>leo-07-spring-declarative-transaction</artifactId>
+    <artifactId>leo-007-spring-declarative-transaction</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>leo-07-spring-declarative-transaction</name>
+    <name>leo-007-spring-declarative-transaction</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
